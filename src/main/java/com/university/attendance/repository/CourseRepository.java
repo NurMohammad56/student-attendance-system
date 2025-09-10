@@ -1,9 +1,9 @@
-// package com.university.attendance.repository;
+package com.university.attendance.repository;
 
-// import com.university.attendance.model.Course;
-// import org.springframework.data.mongodb.repository.MongoRepository;
-// import org.springframework.stereotype.Repository;
+import com.university.attendance.model.Course;
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Repository;
 
-// @Repository
-// public interface CourseRepository extends MongoRepository<Course, String> {
-// }
+@Repository
+public interface CourseRepository extends MongoRepository<Course, String> {
+}
