@@ -1,0 +1,9 @@
+/target
+/.idea
+/.vscode
+*.iml
+*.log
+*.class
+/.mvn
+/.spring-boot-devtools.properties
+.DS_Store
