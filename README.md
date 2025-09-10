@@ -1,12 +1,15 @@
 # Student Attendance System
 
-Simple balanced backend for university OOP project.
+Simple balanced backend for university project.
 
 ## Run
 
 1. Start MongoDB locally (or use Atlas).
 2. `mvn spring-boot:run`
 3. Server: `http://localhost:8080`
+
+## Postman Documentation
+Link: https://documenter.getpostman.com/view/42737621/2sB3HnMLr1
 
 ## Endpoints (examples)
 
