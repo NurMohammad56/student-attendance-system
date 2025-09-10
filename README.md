@@ -1,30 +1,32 @@
 # Student Attendance System
 
-Simple balanced backend for university project.
+## Overview
+The **Student Attendance System** is a backend application built with **Java** and **Spring Boot** to manage university courses, students, and attendance records. It provides a RESTful API for CRUD operations and attendance tracking.
 
-## Run
+## Postman Documentation Link: https://documenter.getpostman.com/view/42737621/2sB3HnMLr1
 
-1. Start MongoDB locally (or use Atlas).
-2. `mvn spring-boot:run`
-3. Server: `http://localhost:8080`
+## Technology Stack
+- **Backend:** Java, Spring Boot  
+- **Database:** MongoDB  
+- **Build Tool:** Maven  
 
-## Postman Documentation
-Link: https://documenter.getpostman.com/view/42737621/2sB3HnMLr1
+## Project Setup
 
-## Endpoints (examples)
+### Prerequisites
+- Java 17+ installed  
+- Maven installed  
+- MongoDB installed and running on default port (27017)
 
-- POST /api/students
-  - body: {"name":"John","email":"john@x.com","rollNumber":"2025-01"}
-- GET /api/students
+### Steps to Run
+1. Clone the repository:
+```bash
+git clone <your-repo-url>
+cd student-attendance-system
+code .
+```
 
-- POST /api/courses
-  - body: {"code":"CSE101","title":"Intro to CS"}
-- GET /api/courses
+## Install dependencies and build the project
+- mvn clean install
 
-- POST /api/attendance/mark
-
-  - body: {"studentId":"...","courseId":"...","date":"2025-09-08","status":"PRESENT"}
-
-- GET /api/attendance/student/{studentId}
-- GET /api/attendance/course/{courseId}
-- GET /api/attendance/course/{courseId}/date/{yyyy-MM-dd}
+## Run the Spring Boot application
+- mvn spring-boot:run
