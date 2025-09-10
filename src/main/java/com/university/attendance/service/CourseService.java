@@ -7,4 +7,5 @@ public interface CourseService {
     Course create(Course c);
     List<Course> getAll();
     Course getById(String id);
+    Course delete(String id);
 }

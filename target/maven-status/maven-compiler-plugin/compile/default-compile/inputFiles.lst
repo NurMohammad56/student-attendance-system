@@ -1,17 +1,17 @@
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/model/AttendanceStatus.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/repository/CourseRepository.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/service/AttendanceService.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/AttendanceSystemApplication.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/service/AttendanceServiceImpl.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/repository/StudentRepository.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/model/Course.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/service/CourseService.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/controller/StudentController.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/service/StudentService.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/service/CourseServiceImpl.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/controller/CourseController.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/model/Student.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/controller/AttendanceController.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/repository/AttendanceRepository.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/model/AttendanceRecord.java
-/home/nur/Projects/student-attendance-system/src/main/java/com/university/attendance/service/StudentServiceImpl.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/service/AttendanceServiceImpl.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/AttendanceSystemApplication.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/model/Student.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/controller/CourseController.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/service/CourseServiceImpl.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/service/StudentService.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/service/CourseService.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/service/StudentServiceImpl.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/repository/AttendanceRepository.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/controller/AttendanceController.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/model/AttendanceRecord.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/repository/CourseRepository.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/service/AttendanceService.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/repository/StudentRepository.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/model/Course.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/controller/StudentController.java
+/home/nur/Downloads/Student Management System/student-attendance-system/src/main/java/com/university/attendance/model/AttendanceStatus.java

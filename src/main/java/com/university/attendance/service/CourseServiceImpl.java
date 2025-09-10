@@ -28,4 +28,14 @@ public class CourseServiceImpl implements CourseService {
     public Course getById(String id) {
         return courseRepository.findById(id).orElse(null);
     }
+
+@Override
+public Course delete(String id) {
+    Course course = courseRepository.findById(id).orElse(null);
+    if (course != null) {
+        courseRepository.deleteById(id);
+    }
+    return course; 
+}
+
 }

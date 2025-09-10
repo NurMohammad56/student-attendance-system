@@ -36,7 +36,7 @@ public class CourseController {
     @DeleteMapping("/{id}")
     public ResponseEntity<?> deleteById(@PathVariable String id){
         Course c = courseService.delete(id);
-        return ResponseEntity.status(200).body("Course deleted success")
+        return ResponseEntity.status(200).body("Course deleted success");
     }
 }
 
