@@ -15,7 +15,7 @@ The **Student Attendance System** is a backend application built with **Java** a
 ### Prerequisites
 - Java 17+ installed  
 - Maven installed  
-- MongoDB installed and running on default port (27017)
+- MongoDB installed using atlas database
 
 ### Steps to Run
 1. Clone the repository:
