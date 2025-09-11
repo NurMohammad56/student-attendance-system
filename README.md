@@ -20,7 +20,7 @@ The **Student Attendance System** is a backend application built with **Java** a
 ### Steps to Run
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NurMohammad56/student-attendance-system.git
 cd student-attendance-system
 code .
 ```
